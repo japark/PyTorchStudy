@@ -3,7 +3,7 @@ Studies on PyTorch
 
 
 Requirements to implement this tutorial:  
-torch, torchvision, numpy, matplotlib
+jupyter, torch, torchvision, numpy, matplotlib
 
-For installation of torch and torchvision, refer to:  
+For detail installation of torch and torchvision, refer to:  
 https://pytorch.org/get-started/locally/
