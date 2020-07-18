@@ -1,2 +1,6 @@
-Tutorial-A60MinuteBlitz/data
+venv
+.ipynb_checkpoints
 Tutorial-A60MinuteBlitz/.ipynb_checkpoints
+Tutorial-A60MinuteBlitz/data
+Tutorial-TransferLearning/.ipynb_checkpoints
+Albumentations/.ipynb_checkpoints
